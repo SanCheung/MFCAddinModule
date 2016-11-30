@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S3DUIPane", "THUIPane.vcxproj", "{E60E9A82-8806-4AF7-93C6-699665A5C3BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S3DAddIn", "..\THAddIn\THAddIn.vcxproj", "{A81862BF-3102-41A4-9A63-DADDB50B24C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Debug|Win32.Build.0 = Debug|Win32
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Debug|x64.ActiveCfg = Debug|x64
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Debug|x64.Build.0 = Debug|x64
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Release|Win32.ActiveCfg = Release|Win32
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Release|Win32.Build.0 = Release|Win32
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Release|x64.ActiveCfg = Release|x64
+		{E60E9A82-8806-4AF7-93C6-699665A5C3BA}.Release|x64.Build.0 = Release|x64
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Debug|Win32.Build.0 = Debug|Win32
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Debug|x64.ActiveCfg = Debug|x64
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Debug|x64.Build.0 = Debug|x64
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Release|Win32.ActiveCfg = Release|Win32
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Release|Win32.Build.0 = Release|Win32
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Release|x64.ActiveCfg = Release|x64
+		{A81862BF-3102-41A4-9A63-DADDB50B24C8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
